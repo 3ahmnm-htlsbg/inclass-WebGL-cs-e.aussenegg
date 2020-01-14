@@ -1,28 +1,43 @@
-# Unity2019114f1-2D-Template
+# inclass-WebGL-cs-e.aussenegg
 
 ### Project description: 
-Introduction/Project summary 
+WebGL Game where you can change the positon by pressing a button.
+
+The game is available under: https://github.com/3ahmnm-htlsbg/inclass-WebGL-cs-e.aussenegg
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10; 
+Unity Version: 2019.1.14f1;
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL 960x600 
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+#### Game Start
+<div>
+<img src="Screenshots/Start.JPG">
+</div>
+
+#### Button pressed
+<div>
+<img src="Screenshots/ButtonPressed.JPG">
+</div>
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+WebGL has to be installed on you computer.
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Got help by NicoB
+Script by NicoB: https://github.com/3ahmnm-htlsbg/inclass-WebGL-cs-NicoB
+Sprite: https://freeicons.io/common-style-icons-6/lastfm-icon-baseball-icon-7699
 
 ### Project state: 
-incl. progress in percent
+Finished
 
 ### Limitations: 
+The Limit is the game itself.
 
 ### Lessons Learned: 
+How to generate and use random numbers, and how to usae a script in combination with a button.
 
-Copyright by you :)
+Copyright by e.aussenegg & NicoB
