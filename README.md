@@ -27,6 +27,7 @@ WebGL 960x600
 WebGL has to be installed on you computer.
 
 ### Third party material: 
+Used Project as template: https://github.com/3ahmnm-htlsbg/home-WebGL-movingBall-cs-e.aussenegg
 Got help by NicoB
 Script by NicoB: https://github.com/3ahmnm-htlsbg/inclass-WebGL-cs-NicoB
 Sprite: https://freeicons.io/common-style-icons-6/lastfm-icon-baseball-icon-7699
