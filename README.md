@@ -15,12 +15,12 @@ WebGL 960x600
 ### Visuals: 
 #### Game Start
 <div>
-<img src="Screenshots/Start.JPG">
+<img src="Screenshots/Startup.PNG">
 </div>
 
 #### Button pressed
 <div>
-<img src="Screenshots/ButtonPressed.JPG">
+<img src="Screenshots/ButtonPressed.PNG">
 </div>
 
 ### Necessary setup/execution steps: 
